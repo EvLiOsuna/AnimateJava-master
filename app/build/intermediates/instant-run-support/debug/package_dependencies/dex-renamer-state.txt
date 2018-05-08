@@ -1,0 +1,19 @@
+#Thu May 03 18:57:49 MDT 2018
+renamed.5=classes6.dex
+renamed.4=classes3.dex
+renamed.3=classes2.dex
+renamed.2=classes5.dex
+renamed.1=classes.dex
+renamed.0=classes4.dex
+base.5=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_99a78e69b242be853d0bb23887cef0ed203c6d3a
+base.4=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b76713959a5089584380679c8d428d87a18af2b1
+base.3=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_82081183a7179baa24dc3869d428ae7793fb3ba4
+base.2=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_f4e39460f4b6c58cf0ceb1eae10b8ebf6d3064b4
+base.1=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4fccf983d5199614d5c2a8778d77e8df32cb741c
+base.0=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c884a8afab1270f1c56051dd06bc6cbac75288c0
+file.5=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-23.3.0_99a78e69b242be853d0bb23887cef0ed203c6d3a\\classes.dex
+file.4=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_b76713959a5089584380679c8d428d87a18af2b1\\classes.dex
+file.3=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_82081183a7179baa24dc3869d428ae7793fb3ba4\\classes.dex
+file.2=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-23.3.0_f4e39460f4b6c58cf0ceb1eae10b8ebf6d3064b4\\classes.dex
+file.1=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_4fccf983d5199614d5c2a8778d77e8df32cb741c\\classes.dex
+file.0=C\:\\Users\\osaos\\Documents\\AnimateJava-master\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_c884a8afab1270f1c56051dd06bc6cbac75288c0\\classes.dex

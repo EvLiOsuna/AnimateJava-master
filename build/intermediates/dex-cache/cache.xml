@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\osaos\.android\build-cache\ed8bb31a1bd9b5ee75303138c035ecc964ca957d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\pre-dexed\debug\classes_c884a8afab1270f1c56051dd06bc6cbac75288c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osaos\.android\build-cache\5e30c2f5c5c0058d947b8d7095ae1e343289db1b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\pre-dexed\debug\classes_4fccf983d5199614d5c2a8778d77e8df32cb741c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osaos\.android\build-cache\12e8e0f3c02b3a34ce95b573f7e92016f63a6bed\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\pre-dexed\debug\classes_82081183a7179baa24dc3869d428ae7793fb3ba4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osaos\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0_99a78e69b242be853d0bb23887cef0ed203c6d3a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osaos\.android\build-cache\5e30c2f5c5c0058d947b8d7095ae1e343289db1b\output\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0_f4e39460f4b6c58cf0ceb1eae10b8ebf6d3064b4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_16b3a9ee99ad078134a636cb3ff00d1f7c107a0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="71bd393bed155ca84138dfbb350df18157d28c9b">
+        <dex dex="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7668139ee502b0c8fb08c7827d498e084d3addc6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\osaos\.android\build-cache\74ff573b25b567fbe18d4d3ae16058157f303b31\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\osaos\Documents\AnimateJava-master\app\build\intermediates\pre-dexed\debug\classes_b76713959a5089584380679c8d428d87a18af2b1.jar" />
+    </item>
+
+</items>
